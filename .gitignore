@@ -9,6 +9,7 @@
 *.eclipse-pmd
 *.metadata
 *.tern-project
+WebContent/WEB-INF/classes/*
 rebel.xml
 RemoteSystemsTempFiles
 geomais-ear/src/main/application/META-INF/geomais-ds.xml
